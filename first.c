@@ -2,7 +2,7 @@
 
 void main()
 {
-    printf("I love you. Best wishes to you.");
-    printf("With you forever.")
+    printf("I love you.");
+    printf("You love me too.");
 }
 
